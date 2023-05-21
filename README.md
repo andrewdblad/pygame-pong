@@ -14,7 +14,6 @@ Created using python and pygame functions.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [realpython.com](https://realpython.com/pygame-a-primer/)
 * [pygame.org](https://www.pygame.org/wiki/tutorials)
 
